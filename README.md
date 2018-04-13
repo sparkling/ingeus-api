@@ -5,7 +5,7 @@ A simple api server with an in memory database
 Actions
 --------
 - `GET /users` -- list all users
-- `GET /USER/{id` -- get user details
+- `GET /USER/{id}` -- get user details
 - `POST /USER/{id}` -- update a user
 - `POST /USERS` -- create a new user
 
