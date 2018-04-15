@@ -1,1 +1,0 @@
-INSERT INTO USER (ID, FIRST_NAME, LAST_NAME) VALUES (1, 'Jim', 'Henson'), (2, 'Elon', 'Musk')
